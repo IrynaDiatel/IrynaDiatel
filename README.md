@@ -16,7 +16,7 @@ WatchCharm – responsive watch brand landing page with product catalog and mode
 ![English](https://img.shields.io/badge/English-A2-blue?style=flat-square) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square) ![Russian](https://img.shields.io/badge/Russian-Native-red?style=flat-square)
 Contacts
 📫 How to contact me:
-[LinkedIn](https://www.linkedin.com/in/iryna-diatel) | [Telegram](https://t.me/@Iryna_Diatel) | [Email](mailto:iryna.diatel.dev@gmail.com)
+[LinkedIn](https://https://www.linkedin.com/in/iryna-diatel/) | [Telegram](https://t.me/@Iryna_Diatel) | [Email](mailto:iryna.diatel.dev@gmail.com)
 6. Additionally:
 Statistics GitHub Readme
 Badges (Technologies, Languages)
