@@ -12,13 +12,12 @@ JavaScript | TypeScript | React | Node.js | Next.js | HTML5 | SCSS | Git | GitHu
 
 #### 🛋️ Mebleria
 
-Responsive furniture store website with product catalog, reviews, and FAQ.
+Furniture Store — responsive furniture website with product catalog, reviews, and FAQ.
 
 **Tech Stack:** HTML5, SCSS, JavaScript, Vite, GitHub
 
 [🔗 Live Demo](https://volodymyr-but2025.github.io/Progect_team-PlusUltra/) | [📁 GitHub](https://github.com/Volodymyr-But2025/Progect_team-PlusUltra)
 
----
 
 #### ⌚ WatchCharm
 
